@@ -1,4 +1,3 @@
-```md
 # Job-Matcher
 
 ## 🔹 Project Overview
